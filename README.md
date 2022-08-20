@@ -5,5 +5,6 @@ This is a counter to record how many times I've practiced the [bassai](https://w
 | Date | Number of practices |
 | ------------- | ------------- |
 | 2022-08-18  | 0 |
+| 2022-08-20 | 10 |
 
-Total: 0 / 5000
+Total: 10 / 5000
