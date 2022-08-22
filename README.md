@@ -13,5 +13,6 @@ By building the counter, I also learnt
 | 2022-08-20 | 10 |
 | 2022-08-20 | 1 |
 | 2022-08-22 | 1 |
+| 2022-08-22 | 2 |
 
-Total: 12 / 5000
+Total: 14 / 5000
